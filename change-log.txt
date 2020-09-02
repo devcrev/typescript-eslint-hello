@@ -1,0 +1,3 @@
+> 2020.9.2.979
+    > First release
+    > Some basic eslint configuration, i.e., to work with TypeScript
