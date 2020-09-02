@@ -1,3 +1,5 @@
 > 2020.9.2.979
     > First release
     > Some basic eslint configuration, i.e., to work with TypeScript
+> 2020.9.2.1064
+    > Added a note to README.md about ESLint not being installed globally

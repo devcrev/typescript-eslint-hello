@@ -8,6 +8,8 @@ I already have Node.js/NPM installed on my Linux machine.
 
 I do not have TypeScript installed globally but I will install it locally to the project.
 
+I do not have ESLint installed globally but I will install it locally to the project.
+
 ## Let's get started.
 
 Start from a directory where you want create the project folder.
