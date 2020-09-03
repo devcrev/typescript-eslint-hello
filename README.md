@@ -30,15 +30,15 @@ Install TypeScript.
 
 `$ npm install --save-dev typescript`
 
-Install EsLint.
+Install ESLint.
 
 `$ npm install --save-dev eslint`
 
-Configure EsLint.
+Configure ESLint.
 
 `$ ./node_modules/.bin/eslint --init`
 
-- Questions and answers while configuring EsLint:
+- Questions and answers while configuring ESLint:
     - How would you like to use ESLint?
         - To check syntax and find problems
     - What type of modules does your project use?

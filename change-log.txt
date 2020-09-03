@@ -1,5 +1,10 @@
+> 2020.9.2.1197
+    > Changed the order of this log, i.e., newest on top.
+    > Fixed a few typos in README.md
+
+> 2020.9.2.1064
+    > Added a note to README.md about ESLint not being installed globally
+
 > 2020.9.2.979
     > First release
     > Some basic eslint configuration, i.e., to work with TypeScript
-> 2020.9.2.1064
-    > Added a note to README.md about ESLint not being installed globally
